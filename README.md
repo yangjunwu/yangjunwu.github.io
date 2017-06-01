@@ -1,2 +1,2 @@
 # yangjunwu.github.io
-vuejs2+element+vuecli
+基于vuejs2+element+vuecli后台管理界面
